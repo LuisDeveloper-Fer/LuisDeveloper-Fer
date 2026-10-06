@@ -47,6 +47,10 @@ Demos interactivas alojadas en GitHub Pages: simulan estados en el navegador. Pa
 | --- | --- |
 | [![Umbral · acceso seguro](https://raw.githubusercontent.com/LuisDeveloper-Fer/secure-api-demo/main/docs/preview.png)](https://github.com/LuisDeveloper-Fer/secure-api-demo) | [![Pulso · monitoreo](https://raw.githubusercontent.com/LuisDeveloper-Fer/transaction-monitor/main/docs/preview.png)](https://github.com/LuisDeveloper-Fer/transaction-monitor) |
 
+### Trama · concurrencia
+
+[![Trama · hilos virtuales](https://raw.githubusercontent.com/LuisDeveloper-Fer/virtual-thread-orchestrator/main/docs/preview.png)](https://luisdeveloper-fer.github.io/virtual-thread-orchestrator/)
+
 ## Stack y áreas de interés
 
 - **Backend:** Java 17/21, Spring Boot, REST, SOAP, WebClient, Maven e integración de sistemas.
