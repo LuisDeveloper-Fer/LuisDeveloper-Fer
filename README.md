@@ -12,7 +12,7 @@ Construyo APIs e integraciones con foco en **concurrencia, seguridad, consistenc
 
 ## Backend Systems Lab
 
-Seis proyectos, seis conversaciones técnicas. Cada repositorio tiene un README, arquitectura Mermaid, decisiones documentadas, ejemplos curl, pruebas, Docker Compose y una consola Angular.
+Siete proyectos, siete conversaciones técnicas. Cada repositorio tiene un README, arquitectura Mermaid, decisiones documentadas, ejemplos curl, pruebas, Docker Compose y una consola Angular.
 
 | Laboratorio | La pregunta que responde | Repositorio |
 | --- | --- | --- |
@@ -22,6 +22,16 @@ Seis proyectos, seis conversaciones técnicas. Cada repositorio tiene un README,
 | 04 · Conciliación | ¿Cómo explicar diferencias entre dos reportes? | [reconciliation-engine](https://github.com/LuisDeveloper-Fer/reconciliation-engine) |
 | 05 · Confianza | ¿Por qué un token válido no basta para acceder a un recurso? | [secure-api-demo](https://github.com/LuisDeveloper-Fer/secure-api-demo) |
 | 06 · Observabilidad | ¿Qué proveedor está degradándose y cómo medirlo? | [transaction-monitor](https://github.com/LuisDeveloper-Fer/transaction-monitor) |
+
+| 07 · Concurrencia | ¿Cómo coordinar muchas esperas sin saturar al proveedor? | [virtual-thread-orchestrator](https://github.com/LuisDeveloper-Fer/virtual-thread-orchestrator) |
+
+## Demos públicas
+
+- [Nexo · transacciones](https://luisdeveloper-fer.github.io/async-transaction-service/)
+- [Mora · pagos](https://luisdeveloper-fer.github.io/payment-simulator/)
+- [Trama · hilos virtuales](https://luisdeveloper-fer.github.io/virtual-thread-orchestrator/)
+
+Demos interactivas alojadas en GitHub Pages: simulan estados en el navegador. Para ejecutar y medir el backend Java, cada repositorio incluye Docker Compose.
 
 ## Interfaces de los proyectos
 
