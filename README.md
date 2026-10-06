@@ -23,6 +23,20 @@ Seis proyectos, seis conversaciones técnicas. Cada repositorio tiene un README,
 | 05 · Confianza | ¿Por qué un token válido no basta para acceder a un recurso? | [secure-api-demo](https://github.com/LuisDeveloper-Fer/secure-api-demo) |
 | 06 · Observabilidad | ¿Qué proveedor está degradándose y cómo medirlo? | [transaction-monitor](https://github.com/LuisDeveloper-Fer/transaction-monitor) |
 
+## Interfaces de los proyectos
+
+| Nexo · transferencias | Mora · pagos |
+| --- | --- |
+| [![Nexo · transferencias](https://raw.githubusercontent.com/LuisDeveloper-Fer/async-transaction-service/main/docs/preview.png)](https://github.com/LuisDeveloper-Fer/async-transaction-service) | [![Mora · pagos](https://raw.githubusercontent.com/LuisDeveloper-Fer/payment-simulator/main/docs/preview.png)](https://github.com/LuisDeveloper-Fer/payment-simulator) |
+
+| Enlace · notificaciones | Cuadra · conciliación |
+| --- | --- |
+| [![Enlace · notificaciones](https://raw.githubusercontent.com/LuisDeveloper-Fer/webhook-delivery-hub/main/docs/preview.png)](https://github.com/LuisDeveloper-Fer/webhook-delivery-hub) | [![Cuadra · conciliación](https://raw.githubusercontent.com/LuisDeveloper-Fer/reconciliation-engine/main/docs/preview.png)](https://github.com/LuisDeveloper-Fer/reconciliation-engine) |
+
+| Umbral · acceso seguro | Pulso · monitoreo |
+| --- | --- |
+| [![Umbral · acceso seguro](https://raw.githubusercontent.com/LuisDeveloper-Fer/secure-api-demo/main/docs/preview.png)](https://github.com/LuisDeveloper-Fer/secure-api-demo) | [![Pulso · monitoreo](https://raw.githubusercontent.com/LuisDeveloper-Fer/transaction-monitor/main/docs/preview.png)](https://github.com/LuisDeveloper-Fer/transaction-monitor) |
+
 ## Stack y áreas de interés
 
 - **Backend:** Java 17/21, Spring Boot, REST, SOAP, WebClient, Maven e integración de sistemas.
