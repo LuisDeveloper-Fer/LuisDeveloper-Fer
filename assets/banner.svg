@@ -1,4 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="230" viewBox="0 0 1400 230" role="img" aria-label="Luis · Java Backend Developer">
-<defs><linearGradient id="b"><stop stop-color="#7637bd"/><stop offset=".53" stop-color="#463078"/><stop offset="1" stop-color="#202337"/></linearGradient><pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#fff" opacity=".13"/></pattern></defs>
-<rect width="1400" height="230" fill="url(#b)"/><path d="M180 0h170L174 230H4Z" fill="#a251e9" opacity=".38"/><path d="M352 0h36L212 230h-36Z" fill="#cb8bff" opacity=".32"/><path d="M1100 0h150l-176 230H924Z" fill="#171c30" opacity=".25"/><rect width="170" height="230" fill="url(#dots)"/>
-<g fill="#fff" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif"><text x="698" y="99" font-size="64" font-weight="800" letter-spacing="8">LUIS</text><text x="698" y="145" font-size="22" letter-spacing="5">JAVA BACKEND DEVELOPER</text><text x="698" y="183" fill="#dacdeb" font-size="15" letter-spacing="2">APIs · SEGURIDAD · INTEGRACIÓN</text></g><path d="m1192 87-25 28 25 28m72-56 25 28-25 28m-36-61-17 66" fill="none" stroke="#b9a0f8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="390" viewBox="0 0 1440 390" role="img" aria-labelledby="title desc">
+<title id="title">Luis · Backend Developer Java</title><desc id="desc">Identidad personal en azul petróleo, grafito y cobre. Tipografía de gran formato y un monograma L de trazos geométricos.</desc>
+<rect width="1440" height="390" fill="#102a32"/><rect x="1010" width="430" height="390" fill="#0c2027"/><path d="M1010 0v390" stroke="#30505a"/>
+
+<path d="M66 63h40" stroke="#c88e61" stroke-width="5"/><text x="124" y="69" fill="#a7bfc4" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">LUISDEVELOPER-FER</text>
+<text x="60" y="224" fill="#f2eee5" font-family="Arial,Helvetica,sans-serif" font-size="155" font-weight="800" letter-spacing="-8">LUIS<tspan fill="#c88e61">.</tspan></text>
+<text x="69" y="282" fill="#f2eee5" font-family="Arial,sans-serif" font-size="30" font-weight="600" letter-spacing="2">BACKEND DEVELOPER / JAVA</text>
+<path d="M69 312h857" stroke="#30505a"/><text x="69" y="348" fill="#a7bfc4" font-family="Arial,sans-serif" font-size="16" letter-spacing="1">INTEGRACIÓN DE SISTEMAS</text><circle cx="342" cy="342" r="3" fill="#c88e61"/><text x="361" y="348" fill="#a7bfc4" font-family="Arial,sans-serif" font-size="16" letter-spacing="1">SEGURIDAD</text><circle cx="505" cy="342" r="3" fill="#c88e61"/><text x="524" y="348" fill="#a7bfc4" font-family="Arial,sans-serif" font-size="16" letter-spacing="1">RESILIENCIA</text>
+<path d="M1090 62h-28v28m306 0V62h-28m-278 236v28h28m250 0h28v-28" fill="none" stroke="#547079" stroke-width="2"/>
+<path d="M1120 102h65v140h128v55h-193Z" fill="#c88e61"/><path d="M1210 102h32v110h-32Zm58 0h32v110h-32Z" fill="#28434c"/><text x="1088" y="359" fill="#718e96" font-family="monospace" font-size="13" letter-spacing="3">DISEÑAR · INTEGRAR · OBSERVAR</text>
+</svg>
