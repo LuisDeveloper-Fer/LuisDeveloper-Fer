@@ -1,4 +1,4 @@
-<p><img src="assets/banner.svg" alt="Luis · Backend Developer Java · Integración, seguridad y resiliencia" width="100%" /></p>
+<p><img src="assets/luis-petrol.svg" alt="Luis · Backend Developer Java · Integración, seguridad y resiliencia" width="100%" /></p>
 
 ### Soy Luis. Desarrollo backend con Java.
 
@@ -43,3 +43,4 @@ Me importa que una solución se pueda **entender, probar y operar**: desde el co
 ---
 
 <sub>Contratos claros. Comunicaciones seguras. Sistemas observables.</sub>
+
